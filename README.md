@@ -17,7 +17,7 @@ Using MongoDB
 
 ## Apps
 
-Client Rest: Postman, Insomnia, Talend API Tester, etc
+Client Rest: Postman, Insomnia, Talend API Tester,Thunder Client, etc
 
 ## Plugins
 
